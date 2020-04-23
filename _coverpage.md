@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello,燃宝</h1>
 
-[常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
+[学习资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
 [码云](https://gitee.com/chenot/demo)
 [开始阅读](#燃宝学习Java文档)
 
