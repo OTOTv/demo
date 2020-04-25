@@ -7,8 +7,7 @@
   * [Java集合](./docs/b-2Java集合.md)
   * [Java多线程](./docs/b-3Java多线程.md)
   * [jvm](./docs/b-4jvm.md)
-* go
-  *(未整理...
+* （待整理（Linux、python、Golang、PHP、JS...
 *计算机基础
 
   * [计算机网络](./docs/c-1计算机网络.md)
